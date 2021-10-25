@@ -7,7 +7,7 @@ import discord
 client_id = ""
 client_secret = ""
 spotify_client_id = ""
-spotify_client_scret = ""
+spotify_client_secret = ""
 
 bot = commands.Bot(command_prefix="-")
 #MusicManager = MusicManager(bot, spotify_support=False)
@@ -15,7 +15,7 @@ bot = commands.Bot(command_prefix="-")
 
 
 MusicManager = MusicManager(bot, client_id=spotify_client_id,
-                                   client_secret=spotify_client_scret, spotify_support=True)
+                                   client_secret=spotify_client_secret, spotify_support=True)
 
 
 
