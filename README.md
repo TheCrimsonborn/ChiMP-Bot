@@ -1,5 +1,5 @@
 # ChiMP
-<img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/TheCrimsonborn/ChiMP-Bot"><img alt="GitHub commit merge status" src="https://img.shields.io/github/commit-status/TheCrimsonborn/ChiMP-Bot/master/d01be7faeaf04acd9309bab0db2310501496b600"><img alt="GitHub issues" src="https://img.shields.io/github/issues/TheCrimsonborn/ChiMP-Bot"><img alt="GitHub forks" src="https://img.shields.io/github/forks/TheCrimsonborn/ChiMP-Bot"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TheCrimsonborn/ChiMP-Bot"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCjOfbpmrkaY8ziBi1k_WBRQ?style=flat">
+<img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/TheCrimsonborn/ChiMP-Bot"> <img alt="GitHub commit merge status" src="https://img.shields.io/github/commit-status/TheCrimsonborn/ChiMP-Bot/master/d01be7faeaf04acd9309bab0db2310501496b600"> <img alt="GitHub issues" src="https://img.shields.io/github/issues/TheCrimsonborn/ChiMP-Bot"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/TheCrimsonborn/ChiMP-Bot"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TheCrimsonborn/ChiMP-Bot"> <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCjOfbpmrkaY8ziBi1k_WBRQ?style=flat">
 
 
 
