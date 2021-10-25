@@ -57,7 +57,7 @@ This article will help you. [Development Guides of Spotify](https://developer.sp
 #### Bot Setup
 
 ```
-git clone 
+git clone https://github.com/TheCrimsonborn/ChiMP-Bot
 
 cd chimp bot
 
