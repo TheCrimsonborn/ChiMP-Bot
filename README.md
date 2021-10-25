@@ -59,7 +59,7 @@ This article will help you. [Development Guides of Spotify](https://developer.sp
 ```
 git clone https://github.com/TheCrimsonborn/ChiMP-Bot
 
-cd chimp bot
+cd ChiMP-Bot
 
 python3 -m pip install -r requirements.txt
 
