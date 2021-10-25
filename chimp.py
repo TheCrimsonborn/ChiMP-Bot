@@ -42,10 +42,9 @@ async def on_play(ctx, player):
 
 @bot.event
 async def on_ready():
-    database = discordSuperUtils.DatabaseManager.connect(...)
-    await MusicManager.connect_to_database(database, ["playlists"])
+    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.listening, name="Spotify/YT"))
 
-    print("Music manager is ready.", bot.user)
+    print("ChiMP Bot is ready", bot.user)
 
 
 @bot.command()
