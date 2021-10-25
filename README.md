@@ -63,7 +63,7 @@ cd chimp bot
 
 python3 -m pip install -r requirements.txt
 
-edit the "client_id", "client_secret", "spotify_client_id", "spotify_client_secret" with 'nano' or 'vim' or you FTP connection 
+edit the "client_id", "client_secret", "spotify_client_id", "spotify_client_secret", "token" with 'nano' or 'vim' or you FTP connection 
 
 screen -AmdS chimp python3 chimp.py
 ```
